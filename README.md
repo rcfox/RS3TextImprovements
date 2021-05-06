@@ -2,7 +2,8 @@
 
 ## How To Install
 
-1. Download the latest mod release. ** FIXME: Add a link. **
+1. Download the latest [RS3TextImprovements.zip](https://github.com/rcfox/RS3TextImprovements/releases/latest/download/RS3TextImprovements.zip)
+    * Older versions might also be available on the [Releases](https://github.com/rcfox/RS3TextImprovements/releases) page.
 2. Get [UnityModManager](https://www.nexusmods.com/site/mods/21/)(UMM).
     * If you already have it, make sure to upgrade to at least version **0.23.4b**
 3. Run UMM, set the game to "Romancing SaGa 3", choose the directory it's installed to, then click the "Install" button.
